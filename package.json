@@ -1,0 +1,17 @@
+{
+  "name": "aps_api_crud",
+  "version": "1.0.0",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Afonso Estevão",
+  "license": "ISC",
+  "description": "Atividade 2 - Desafio - Desenvolvimento de API para Operações de CRUD",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
