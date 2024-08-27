@@ -23,7 +23,8 @@ Este projeto implementa uma API RESTful usando Node.js e MongoDB. A API realiza 
    ```
    git clone https://github.com/Pxxx010/API_CRUD
 
-   cd API_CRUD-main```
+   cd API_CRUD-main
+   ```
 
 2. **Instalar Dependências:**
    ```
@@ -51,10 +52,6 @@ Use ferramentas como Postman ou Insomnia para testar os seguintes endpoints:
 - **GET** `/api/items/:id`: Ler um item específico.
 - **PUT** `/api/items/:id`: Atualizar um item existente.
 - **DELETE** `/api/items/:id`: Deletar um item.
-
-## Contribuições
-
-Sinta-se à vontade para contribuir com melhorias ou correções. Abra uma *issue* ou envie um *pull request* para colaborar.
 
 ## Licença
 
