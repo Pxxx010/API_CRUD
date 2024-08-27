@@ -21,9 +21,9 @@ Este projeto implementa uma API RESTful usando Node.js e MongoDB. A API realiza 
 
 1. **Clonar o Repositório:**
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Pxxx010/API_CRUD
 
-   cd seu-repositorio```
+   cd API_CRUD-main```
 
 2. **Instalar Dependências:**
    ```
