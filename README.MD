@@ -1,6 +1,6 @@
 # API CRUD com Node.js e MongoDB
 
-Este projeto implementa uma API RESTful usando Node.js e MongoDB. A API realiza operações básicas de CRUD (Create, Read, Update, Delete) para gerenciar uma entidade `Item`. Os IDs dos itens são gerados automaticamente pelo MongoDB.
+Este projeto implementa uma API RESTful usando Node.js e MongoDB. A API realiza operações básicas de CRUD (Create, Read, Update, Delete) para gerenciar uma entidade `Item`.
 
 ## Funcionalidades
 
